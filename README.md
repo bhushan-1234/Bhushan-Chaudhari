@@ -1,2 +1,3 @@
-Hii Bhushan chaudhari
- how are you in my repo
+Hii  i am Bhushan chaudhari 
+
+welcome to my repo
